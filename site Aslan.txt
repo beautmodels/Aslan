@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <title>Januario Dava</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="D:\SITE\img\img.webp.jpg">
+    <div class="container">
+      <h1>Januario Dava</h1>
+      <p>Profissional de TI & Modelo Proficional</p>
+    </div>
+  </header>
+
+  <section id="sobre-mim">
+    <div class="container">
+      <h2>Sobre mim</h2>
+      <p>Meu nome é Januario Dava e sou um estudante de Informatica e Redes. sou modelo profisional. baterista. instrutor de moda e amante de musica e instrumentos musicais.</p>
+      <img src="">
+    </div>
+  </section>
+
+  <section id="habilidades">
+    <div class="container">
+      <h2>Habilidades</h2>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>formar modelos e baterista</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="projetos">
+    <div class="container">
+      <h2>Projetos</h2>
+      <ul>
+        <li>Criar um site dinamico</li>
+        <li>Fazer venda do site</li>
+        <li>Abrir uma agencia de modelos</li>
+      </ul>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>Powered by @Januario Dava</p>
+    </div>
+  </footer>
+
+</body>
+</html>
